@@ -1,0 +1,334 @@
+﻿include,【動】～を含む
+steal,【動】～を盗む
+exploit,【動】(脆弱性)を突いて攻撃する 【名】エクスプロイト(コード)
+release,【動】～を入手可能な状態にする 【名】(記事やプログラムの)リリース
+target,【動】～を標的とする 【名】標的
+allow,【動】～を可能とする、許可する
+provide,【動】～を提供する
+create,【動】～を作り出す
+compromise,【動】(システムなど)を侵害する
+warn,【動】～を警告する
+enable,【動】(設定などを) 有効化する、可能にする
+expose,【動】〜を暴露する
+affect,【動】〜に影響する
+fix,【動】(脆弱性やバグ)を修正する
+claim,【動】〜と主張する 【名】主張、要求
+contain,【動】〜を含む
+pay,【動】〜を支払う、(注意など)を払う
+deploy,【動】〜を配置する、展開する
+state,【動】〜と表明する 【名】状態、国
+confirm,【動】〜を確認する
+prevent,【動】〜を妨げる
+publish,【動】〜を発行する、出版する
+detect,【動】〜を検知する
+require,【動】〜を必要とする、要求する
+launch,【動】～を立ち上げる、～を開始する 【名】開始
+block,【動】〜を遮断する 【名】ブロック、遮断
+offer,【動】〜を提供する 【名】申し出、提供
+reveal,【動】〜を明らかにする
+identify,【動】〜を特定する
+leak,【動】流出する、〜を流出させる 【名】(情報の)流出、リーク
+encrypt,【動】～を暗号化する
+decrypt,【動】～を復号する
+gain,【動】～を獲得する 【名】収益
+disclose,【動】〜を公表する、暴露する
+base,【動】〜を基盤とする、～に基づく 【名】基盤、基礎、基数
+execute,【動】～を実行する
+manage,【動】～を管理する
+address,【動】(問題やバグなど)に対処する 【名】住所、アドレス
+ensure,【動】〜を確実にする、保証する
+phish,【動】フィッシングを行う
+note,【動】～に注意を払う、〜と述べる
+track,【動】〜を追跡する
+deliver,【動】～を配送する
+attempt,【動】～を試みる 【名】試み
+operate,【動】～を運用する、操作する
+involve,【動】〜を巻き込む、関係させる
+relate,【動】～に関連する
+investigate,【動】～を調査する
+secure,【動】～を安全にする 【形】安全な、セキュアな
+recommend,【動】〜を推奨する
+contact,【動】〜と接触する、連絡する 【名】接触
+disable,【動】〜を無効化する
+delete,【動】〜を削除する
+exist,【動】存在する、すでにある
+expect,【動】〜を予期する、〜と推定する
+link,【動】～と関連づける 【名】関連、リンク
+fail,【動】失敗する
+conduct,【動】～を行う 【名】行為
+distribute,【動】～を配布する
+observe,【動】～を観測する、観察する
+urge,【動】～に～するように強く要請する
+impersonate,【動】～になりすます
+advise,【動】～を忠告する、勧める
+occur,【動】起こる
+display,【動】～を表示する、展示する 【名】表示、画面
+focus,【動】～に集中する、焦点を当てる 【名】焦点、中心
+determine,【動】～を決心する、判断する
+post,【動】～を投稿する 【名】投稿
+consider,【動】～をよく考える、検討する、考慮する
+resolve,【動】～を解決する、名前解決する
+force,【動】～を強いる 【名】強制、暴力
+obtain,【動】～を得る
+monitor,【動】～を監視する 【名】画面、監視
+alert,【動】～に警告する 【名】警報、注意喚起 【形】注意している
+analyze,【動】～を分析する
+associate,【動】～と関連付ける 【名】仲間
+abuse,【動】～を悪用する 【名】悪用、不正行為
+implement,【動】～を実装する、実行する
+infect,【動】～に感染させる
+mitigate,【動】～を軽減する、緩和する
+bypass,【動】～を迂回する 【名】迂回、バイパス
+highlight,【動】～を強調する 【名】目玉、見どころ
+append,【動】～を付け加える
+notify,【動】～に通知する
+configure,【動】～を設定する
+restore,【動】～を復旧する、元に戻す
+argue,【動】～と主張する
+describe,【動】～と説明する、記述する
+generate,【動】～を生成する、生じさせる
+avoid,【動】～を避ける
+belong,【動】～に属する
+indicate,【動】～を示す、指摘する
+respond,【動】対応する、応答する
+hide,【動】～を隠す
+recover,【動】～を回復する
+suggest,【動】～を提案する、示唆する
+inform,【動】～に知らせる
+commit,【動】(罪など)を犯す、～を約束する
+rely,【動】～に依存する、～を信頼する
+verify,【動】～を検証する
+disrupt,【動】～を中断させる、混乱させる
+push,【動】～を押し出す、配信する
+charge,【動】～を告発する、請求する 【名】請求、告発
+limit,【動】～を限定する、制限する 【名】限界、制限
+switch,【動】～を切り替える 【名】転換、スイッチ
+register,【動】～に登録する
+maintain,【動】～を維持する、整備する
+utilize,【動】～を利用する
+establish,【動】～を確立する
+wipe,【動】(データなど)を削除する
+modify,【動】～を変更する
+trigger,【動】～のきっかけとなる 【名】引き金、トリガー
+exfiltrate,【動】(データなど)を密かに流出させる
+prompt,【動】～するように促す 【形】迅速な、即座の
+embed,【動】～を組み込む、埋め込む
+seek,【動】～を求める、探す
+expand,【動】広がる、〜を広げる
+engage,【動】〜に携わる、〜を雇う
+replace,【動】〜を〜に取り替える
+seem,【動】〜と思われる
+demand,【動】～を要求する 【名】要求
+defend,【動】〜を防御する
+trick,【動】〜をだます
+pose,【動】～を引き起こす、〜のふりをする
+promote,【動】〜を促進する
+emerge,【動】台頭する、現れる、明らかになる
+trust,【動】～を信用する 【名】信用
+achieve,【動】〜を達成する、獲得する
+coordinate,【動】〜を調整する、まとめ上げる
+aim,【動】〜を狙う、目指す 【名】狙い、目的
+submit,【動】〜を提出する
+admit,【動】〜を認める、入れる
+concern,【動】～に関係する 【名】関係、関心事
+inject,【動】〜を注入する、仕掛ける
+allege,【動】〜と主張する
+automate,【動】～を自動化する
+purchase,【動】〜を購入する 【名】購入
+conclude,【動】〜と結論づける
+demonstrate,【動】〜を示す、証明する
+locate,【動】〜に置く
+request,【動】～を要求する、要請する 【名】要請、リクエスト
+seize,【動】〜を押収する、〜を掴む
+handle,【動】～を扱う、処理する
+complete,【動】～を完了する 【形】全部の、完全な
+review,【動】〜を見直す、よく調べる 【名】概観、見直し
+employ,【動】～を雇う、使用する
+authenticate,【動】～を認証する
+search,【動】～を探す、検索する 【名】探索、検索
+invest,【動】～を投資する
+crash,【動】〜を破壊する、クラッシュする 【名】(装置・プログラムの)クラッシュ
+range,【動】～から～に及ぶ 【名】範囲
+extend,【動】～を拡張する、広げる
+extort,【動】～を脅迫する、ゆすり取る
+enforce,【動】～を強要する、実施する
+rate,【動】～と評価する、見積もる 【名】割合
+advance,【動】進歩する 【名】進歩、前進
+direct,【動】～を指示する、～へ案内する 【形】直接の
+attach,【動】～を添付する、取り付ける
+authorize,【動】～を認可する、権限を与える
+vulnerability,【名】脆弱性
+threat,【名】脅威
+actor,【名】攻撃者グループ、アクター
+issue,【名】問題(点) 【動】〜を発行する
+customer,【名】顧客、取引先
+victim,【名】被害者
+account,【名】アカウント、口座
+organization,【名】組織
+code,【名】コード、符号
+breach,【名】(データの)流出、侵害 【動】～を侵害しデータを持ち出す
+feature,【名】特徴、目玉 【動】～を売りとする、特集する
+campaign,【名】一連の作戦、キャンペーン
+government,【名】政府
+tool,【名】道具、ツール
+flaw,【名】欠陥
+source,【名】出所
+ransom,【名】身代金
+firm,【名】会社
+process,【名】過程、工程 【動】〜を処理する、手続きを行う
+detail,【名】細部、詳細 【動】〜を詳細に述べる
+law,【名】法
+agency,【名】機関
+patch,【名】パッチ、修正プログラム 【動】パッチを適用する
+scam,【名】詐欺
+fraud,【名】詐欺
+fraudster,【名】詐欺師
+setting,【名】設定、環境
+image,【名】画像、イメージ
+policy,【名】方針、信条、設定(の集まり)
+variant,【名】(マルウェアなどの)亜種、変異種
+industry,【名】産業、業界
+individual,【名】個人 【形】個人の、個々の
+privilege,【名】特権
+type,【名】型、タイプ
+sector,【名】業界、分野
+department,【名】省、局
+identity,【名】識別情報
+cryptocurrency,【名】暗号通貨
+content,【名】内容、コンテンツ
+enterprise,【名】企業
+connection,【名】接続、コネクション
+form,【名】形態、種類、フォーム
+method,【名】方法、方式
+option,【名】選択肢、オプション
+intelligence,【名】知能、インテリジェンス
+outage,【名】(システムなどの)停止
+theft,【名】窃盗
+consumer,【名】消費者
+capability,【名】能力
+tactic,【名】戦術
+measure,【名】対策、基準、(複数形で)方法 【動】～を測定する
+technique,【名】手法、テクニック
+certificate,【名】証明書
+addition,【名】付加
+administrator,【名】管理者
+channel,【名】経路、チャンネル
+evidence,【名】証拠
+amount,【名】量、総計 【動】(to～で)～に達する
+affiliate,【名】加盟メンバー 【動】～に加盟する
+loss,【名】損害、喪失
+entity,【名】(人や組織などの)主体
+value,【名】値、価値 【動】～を評価する、尊重する
+role,【名】役割
+authority,【名】当局、権威
+approach,【名】取り組み方、接近 【名】取り組み方、接近
+supply,【名】供給 【動】～を供給する
+behavior,【名】挙動、振る舞い
+scheme,【名】仕組み、悪だくみ、スキーム
+instance,【名】例、インスタンス
+ability,【名】能力
+fund,【名】資金、基金 【動】～に資金提供する
+patient,【名】患者 【形】忍耐強い
+crime,【名】犯罪
+profile,【名】注目度、プロフィール 【動】概略を描く
+opportunity,【名】機会
+function,【名】機能、関数 【動】機能する
+interest,【名】興味、関心事 【動】興味を起こさせる
+term,【名】(利用などの)規約、期間、用語
+volume,【名】量、ボリューム
+tax,【名】税金
+permission,【名】許可
+insider,【名】内部の人、会員
+task,【名】仕事、タスク 【動】(仕事)を割り当てる
+institution,【名】機関、団体
+strategy,【名】戦略
+vector,【名】経路、方向
+article,【名】記事
+cost,【名】費用 【動】(費用)がかかる
+court,【名】裁判所
+insurance,【名】保険
+asset,【名】資産、財産
+press,【名】報道 【動】～を押す
+advantage,【名】(takeadvantageof～で)～を利用する
+path,【名】進路、(ファイルの)パス
+lure,【名】(相手を騙すための) おとり、ルアー 【動】～を誘い込む
+workaround,【名】回避策、緩和策
+emergency,【名】緊急事態
+survey,【名】(アンケートなどによる)調査 【動】～を調査する、査定する
+sanction,【名】制裁 【動】～に制裁措置を取る
+bounty,【名】報奨金
+credential,【名】認証情報
+election,【名】選挙
+status,【名】状態
+complaint,【名】苦情、告訴
+procedure,【名】手順、手続き
+quarter,【名】四半期
+executive,【名】行政長官、経営者
+instruction,【名】説明、指示、命令
+price,【名】価格 【動】～に値段をつける
+priority,【名】優先度、優先すべきこと
+entry,【名】入り口、項目
+prison,【名】刑務所
+effect,【名】効果、影響
+success,【名】成功
+elevation,【名】(権限の)昇格
+malicious,【形】悪意のある
+critical,【形】重大な、致命的な
+remote,【形】遠隔の、遠隔からの
+available,【形】利用可能である
+personal,【形】個人の
+multiple,【形】多数の
+public,【形】公共の、公然の 【名】大衆
+financial,【形】金銭的な、金融の
+fake,【形】偽の
+due,【形】(dueto〜の形で)〜を原因として
+social,【形】社会の、社会的な
+sensitive,【形】機微な、取扱注意の
+likely,【形】ありそうな 【副】おそらく
+recent,【形】最近の
+private,【形】内密の、私用の
+further,【形】さらに進んだ 【副】さらに
+several,【形】いくつかの
+potential,【形】潜在的な 【名】潜在的な
+legitimate,【形】正規の
+ongoing,【形】進行中の
+current,【形】現在の、最新の
+federal,【形】連邦の
+internal,【形】内部の
+external,【形】外部の
+significant,【形】著しい、重要な
+corporate,【形】法人の、企業の
+previous,【形】先の、以前の
+certain,【形】ある特定の、確かな
+specific,【形】特定の、明白な
+aware,【形】～を知っている
+initial,【形】最初の
+medical,【形】医療の
+suspicious,【形】疑わしい、不審な
+cumulative,【形】累積の
+former,【形】前の、先の
+arbitrary,【形】任意の
+massive,【形】大規模な
+particular,【形】特に、特定の
+numerous,【形】多数の
+responsible,【形】～の原因である、責任がある
+senior,【形】上級の
+sophisticated,【形】洗練された
+legal,【形】法的な、法曹業界の、合法の
+known,【形】既知の
+entire,【形】全体の、完全な
+FALSE,【形】偽の、間違った
+severe,【形】深刻な
+confidential,【形】機密の
+immediate,【形】即時の、即座の
+typical,【形】典型的な
+manual,【形】手動の 【名】マニュアル
+according,【副】～によれば
+nearly,【副】ほとんど
+increasingly,【副】ますます
+approximately,【副】おおよそ
+rather,【副】～よりむしろ
+unfortunately,【副】不運なことに
+therefore,【副】したがって
+roughly,【副】だいたい
+reportedly,【副】伝えられるところによれば
