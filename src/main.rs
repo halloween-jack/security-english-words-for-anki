@@ -1,9 +1,15 @@
 use genanki_rs::{basic_model, Deck, Note};
+use rand::Rng;
 use std::path::Path;
 
 fn main() -> anyhow::Result<()> {
     let words = parse("source/000099579.csv")?;
-    let mut deck = Deck::new(1, "セキュリティ英単語集", "セキュリティ関係の単語330語");
+    let mut rng = rand::thread_rng();
+    let mut deck = Deck::new(
+        rng.gen::<i64>(),
+        "セキュリティ英単語集",
+        "セキュリティ関係の単語330語",
+    );
 
     for word in words {
         deck.add_note(Note::new(
